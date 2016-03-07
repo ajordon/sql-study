@@ -15,7 +15,7 @@ What characters denote optional parts of a command?
 Show the characters and give their name.
 
 ```md
-<!-- brackets [] :denote optional parts-->
+<!-- brackets [] :denote optional parts -->
 ```
 
 What characters indicate a possibly repeating element in a command?
